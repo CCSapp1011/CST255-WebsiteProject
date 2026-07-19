@@ -1,0 +1,44 @@
+.topbox {
+    padding: 0.2em;
+    background-color: rgb(223, 195, 168);
+    font-family: 'Courier New', Courier, monospace;
+    width: 3000px;
+    background-color: #b99c8f;
+    border: 2px solid #5c362c;
+    border-bottom-style: solid;
+}
+
+.body {
+    background-color:rgb(238, 218, 200);
+}
+
+.h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.imageborder {
+    width: 390px;
+    background-color: #b99c8f;
+    border: 1x solid #5c362c;
+    border-bottom-style: solid;
+    margin: 5px;
+}
+
+.maintitle {
+    color: rgb(51, 3, 0);
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.segment {
+    padding: 0.2em;
+    background-color: rgb(223, 195, 168);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #b99c8f;
+    border: 5px solid #5c362c;
+    border-bottom-style: solid;
+}
